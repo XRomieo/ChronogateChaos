@@ -13,3 +13,5 @@
 **Platforms:** The game is only made for windows
 
 **Development tools:** Photoshop, Unity, Audacity
+
+**Google Drive Video Demo:** https://drive.google.com/file/d/1RWldQcBFu8DOIiCP7OasEnmEgnhqEEeF/view?usp=sharing
